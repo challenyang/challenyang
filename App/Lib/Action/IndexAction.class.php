@@ -10,10 +10,6 @@ class IndexAction extends Action
     public function index()
     {
         $this->display(THINK_PATH.'/Tpl/Autoindex/hello.html');
-<<<<<<< HEAD
-=======
-        phpinfo();
->>>>>>> c3600af8c7a02f051a8ac9c4828c15a022003f98
     }
 
     /**
