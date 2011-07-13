@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1882/trunk/ThinkPHP/Mode/Lite
+END
+Db.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1882/trunk/ThinkPHP/Mode/Lite/Db.class.php
+END
+alias.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1773/trunk/ThinkPHP/Mode/Lite/alias.php
+END
+Dispatcher.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1775/trunk/ThinkPHP/Mode/Lite/Dispatcher.class.php
+END
+ThinkTemplateLite.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1837/trunk/ThinkPHP/Mode/Lite/ThinkTemplateLite.class.php
+END
+Action.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1882/trunk/ThinkPHP/Mode/Lite/Action.class.php
+END
+App.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1799/trunk/ThinkPHP/Mode/Lite/App.class.php
+END
+Model.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1775/trunk/ThinkPHP/Mode/Lite/Model.class.php
+END
+ThinkTemplateCompiler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1775/trunk/ThinkPHP/Mode/Lite/ThinkTemplateCompiler.class.php
+END
