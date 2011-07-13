@@ -30,7 +30,7 @@ function G($start,$end='',$dec=3) {
 
 //记录开始运行时间
 G('beginTime');
-if(!defined('APP_PATH')) define('APP_PATH', dirname($_SERVER['SCRIPT_FILENAME']));
+if(!defined('APP_PATH')) define('APP_PATH', dirname(sys_get_temp_dir()));
 if(!defined('RUNTIME_PATH')) define('RUNTIME_PATH',APP_PATH.'/Runtime/');
 if(!defined('APP_CACHE_NAME')) define('APP_CACHE_NAME','app');// 指定缓存名称
 if(defined('RUNTIME_ALLINONE') && is_file(RUNTIME_PATH.'~allinone.php')) {
