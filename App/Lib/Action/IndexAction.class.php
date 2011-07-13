@@ -26,7 +26,7 @@ class IndexAction extends Action
 
     public function info()
     {
-        echo 'Coming Soon !!!';
+        $this->display();
     }
 }
 ?>
