@@ -26,7 +26,7 @@ liu21st
 
 539fd3ec-2725-0410-b7ab-251e373a8e33
 
-Tpl
+Common
 dir
 
 LICENSE.txt
@@ -66,13 +66,10 @@ liu21st@gmail.com
 Lang
 dir
 
-Mode
-dir
-
 Lib
 dir
 
-Common
+Mode
 dir
 
 ThinkPHP.php
@@ -108,6 +105,9 @@ has-props
 
 
 2554
+
+Tpl
+dir
 
 Vendor
 dir
