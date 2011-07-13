@@ -24,5 +24,9 @@ class IndexAction extends Action
         echo $env_table;
     }
 
+    public function info()
+    {
+        echo 'Coming Soon !!!';
+    }
 }
 ?>
