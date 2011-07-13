@@ -9,12 +9,8 @@ class IndexAction extends Action
     */
     public function index()
     {
-    echo 'Hello Yangjialin';
-    $model = new Model('Test');
-    echo $model;
-    $result = $model->find();
-    dump($result);
-        //$this->display(THINK_PATH.'/Tpl/Autoindex/hello.html');
+        $this->display(THINK_PATH.'/Tpl/Autoindex/hello.html');
+        phpinfo();
     }
 
     /**
