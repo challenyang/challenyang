@@ -1,15 +1,15 @@
 10
 
 dir
-1904
+1906
 http://thinkphp.googlecode.com/svn/trunk/ThinkPHP
 http://thinkphp.googlecode.com/svn
 
 
 
-2011-06-20T02:25:28.531586Z
-1899
-liu21st
+2011-07-18T14:12:11.169819Z
+1906
+luofei614@gmail.com
 
 
 
@@ -26,7 +26,7 @@ liu21st
 
 539fd3ec-2725-0410-b7ab-251e373a8e33
 
-Common
+Tpl
 dir
 
 LICENSE.txt
@@ -66,10 +66,13 @@ liu21st@gmail.com
 Lang
 dir
 
+Mode
+dir
+
 Lib
 dir
 
-Mode
+Common
 dir
 
 ThinkPHP.php
@@ -105,9 +108,6 @@ has-props
 
 
 2554
-
-Tpl
-dir
 
 Vendor
 dir
